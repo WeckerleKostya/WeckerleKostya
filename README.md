@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/ResNet-grey?logo=resnet&style=plastic" alt="ResNet"/>
 </p>
 
-# Portfolio
+# Портфолио
 
 Здесь собраны некоторые реализованные проекты
 
